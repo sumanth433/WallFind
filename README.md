@@ -18,7 +18,7 @@
 
 <div align="center">
 
-- The best program for finding a lost balance 
+<h1> The best program for finding a lost balance </h1> 
 
 We are pleased to present you a unique program that not only generates and searches for long-lost wallets, but also analyzes their transaction history. This allows us to find forgotten funds that can be used for distribution between project participants. Now you can access those assets that you have long forgotten about!
 
@@ -33,5 +33,11 @@ We are also planning to launch a forum for participants, where you can share you
 Successful profits and good luck in your search! May your efforts bring you the desired results! 
 
 Sincerely, the CryptoAgent team!
+
+## Donate
+
+**BTC:** bc1qeyrsxy5ntsguwxe9m8tp2x2yqhddz7ymkj44h7
+
+**ETH:** 0x76c2E75B93Eb340f01B378e332FC7d8954893691
 
 </div>
