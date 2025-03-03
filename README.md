@@ -36,8 +36,8 @@ Sincerely, the CryptoAgent team!
 
 ## Donate
 
-**BTC:** bc1qeyrsxy5ntsguwxe9m8tp2x2yqhddz7ymkj44h7
+**BTC:** 	bc1qd46j77pkp5vdxraf8tw5l6xs36dlygdx2rt9ly
 
-**ETH:** 0x76c2E75B93Eb340f01B378e332FC7d8954893691
+**ETH:** 0xe93fc974908003faddf0bd972b05b6494368d3f5
 
 </div>
